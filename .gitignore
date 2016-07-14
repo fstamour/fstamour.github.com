@@ -1,0 +1,9 @@
+
+# nix-build
+src/result
+
+# Vim
+*.swp
+
+
+
