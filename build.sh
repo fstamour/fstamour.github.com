@@ -4,6 +4,6 @@ cd src
 
 nix-build
 
-cp -r result/* ..
+cp --no-preserve=mode -r result/* ..
 
 
